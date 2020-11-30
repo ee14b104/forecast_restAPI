@@ -9,3 +9,6 @@ A rest api built using connexion to forecast time series.
 * Add more forecasting methods
 * Add a requirements.txt
 * Deploy to API marketplace
+* Include hyperparameters in swagger spec
+* Include auto forecasting feature which combines some models to give a forecast
+* Provide controls on max time needed to generate a forecast
