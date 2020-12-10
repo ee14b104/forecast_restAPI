@@ -3,11 +3,11 @@ A rest api built using connexion to forecast time series.
 
 ## Progress so far
 * Added naive forecasting
+* Use the swagger codegen code
+
 
 ## Todos:
-* Use the swagger codegen code
 * Add more forecasting methods
-* Add a requirements.txt
 * Deploy to API marketplace
 * Include hyperparameters in swagger spec
 * Include auto forecasting feature which combines some models to give a forecast
